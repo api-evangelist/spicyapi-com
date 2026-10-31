@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-spicyapi-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://spicyapi.com/
+Spicy API provides an uncensored adult‑focused AI generation platform offering chat, image, video, voice and live voice call capabilities through a single OpenAI‑compatible endpoint. Developers can integrate role‑play chat, photorealistic image creation, video with sound, and expressive voice synthesis in minutes, paying per unit with prices starting at $0.06 per image. Operated by Wayfinity Ltd, a Cyprus‑registered company, the service enforces 18+ age gating, prohibits real people, and logs all requests for compliance. The API is hosted at api.spicyapi.com and accessed via a dashboard at spicyapi.com.
+
+**Areas:** Company · AI · Adult · Image Generation · Video Generation · Voice
+
+## spicyapi-com on APIs.io
+
+Everything profiled for spicyapi-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spicyapi-com/](https://apis.io/providers/spicyapi-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [spicyapi-com Agent tools API](https://apis.io/apis/spicyapi-com/spicyapi-com-agent-tools-api/) — REST mirror of the MCP server at https://www.spicyapi.com/api/mcp: same key, same handlers, same guardrails.
+- [spicyapi-com Audio API](https://apis.io/apis/spicyapi-com/spicyapi-com-audio-api/) — The Audio API from spicyapi-com — 6 operation(s) for audio.
+- [spicyapi-com Characters API](https://apis.io/apis/spicyapi-com/spicyapi-com-characters-api/) — The Characters API from spicyapi-com — 5 operation(s) for characters.
+- [spicyapi-com Core API](https://apis.io/apis/spicyapi-com/spicyapi-com-core-api/) — The Core API from spicyapi-com — 3 operation(s) for core.
+- [spicyapi-com Default API](https://apis.io/apis/spicyapi-com/spicyapi-com-default-api/) — Always available with a valid key.
+- [spicyapi-com Embeddings API](https://apis.io/apis/spicyapi-com/spicyapi-com-embeddings-api/) — The Embeddings API from spicyapi-com — 1 operation(s) for embeddings.
+- [spicyapi-com Guarded API](https://apis.io/apis/spicyapi-com/spicyapi-com-guarded-api/) — Spending and credential tools: need approval_token unless the account turned approvals off.
+- [spicyapi-com Images API](https://apis.io/apis/spicyapi-com/spicyapi-com-images-api/) — The Images API from spicyapi-com — 5 operation(s) for images.
+- [spicyapi-com Live calls API](https://apis.io/apis/spicyapi-com/spicyapi-com-live-calls-api/) — The Live calls API from spicyapi-com — 2 operation(s) for live calls.
+- [spicyapi-com Moderation API](https://apis.io/apis/spicyapi-com/spicyapi-com-moderation-api/) — The Moderation API from spicyapi-com — 2 operation(s) for moderation.
+- [spicyapi-com Video API](https://apis.io/apis/spicyapi-com/spicyapi-com-video-api/) — The Video API from spicyapi-com — 5 operation(s) for video.
+- [spicyapi-com Chat Completions API](https://apis.io/apis/spicyapi-com/spicyapi-com-chat-completions-api/) — The Chat Completions API from spicyapi-com — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Spicyapi Com Agentic Access](https://apis.io/agentic-access/spicyapi-com/spicyapi-com-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Spicyapi Com Openapi Overlay](https://apis.io/overlays/spicyapi-com/spicyapi-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [spicyapi-com API Rules](https://apis.io/rules/spicyapi-com/spicyapi-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Spicyapi Com Authentication](https://apis.io/security/spicyapi-com/spicyapi-com-authentication/)
+- [Spicyapi Com Domain Security](https://apis.io/security/spicyapi-com/spicyapi-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Spicyapi Com Scopes](https://apis.io/scopes/spicyapi-com/spicyapi-com-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Spicyapi Com Rate Limits](https://apis.io/rate-limits/spicyapi-com/spicyapi-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spicyapi.com/)
+- [Documentation](https://www.spicyapi.com/docs)
+- [Getting started](https://www.spicyapi.com/docs/integrations)
+- [API reference](https://www.spicyapi.com/docs/api)
+- [Pricing](https://www.spicyapi.com/pricing)
+- [Support](https://www.spicyapi.com/dashboard/help)
+- [Terms of service](https://www.spicyapi.com/terms-of-service)
+- [Privacy policy](https://www.spicyapi.com/privacy-policy)
+- [GitHub](https://github.com/spicyapi)
+- [Status](https://www.spicyapi.com/status)
+
+## API Evangelist rating
+
+**Kin Score 52.5** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 49.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 40.0 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 31.6 |
+
+**Agent readiness 54.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/spicyapi-com/](https://apis.io/providers/spicyapi-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for spicyapi-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/spicyapi-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
